@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassProject</string>
+    <string name="title">Priscilla Mziki App</string>
+    <string name="playButton">Play Ringtone</string>
+    <string name="stopButton">Stop Playing</string>
+    <string name="notice">Once the play button is tapped a service starts and the media player will play the default phone ringtone. This will play in the background even if the application is closed. Stopping the song only occurs when the stop button is tapped</string>
+    <string name="alarm_string">Trigger Alarm</string>
+    <string name="alarm_text">By tapping the Alarm Button, Alarm utlising the Broadcast Reciver will start after 5 seconds.</string>
+</resources>
